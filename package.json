@@ -2,7 +2,6 @@
   "name": "starwars-express",
   "version": "1.0.0",
   "description": "",
-   // make sure there is something here
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.15.0",
@@ -11,7 +10,6 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    // make sure there is something here
     "start": "node server.js"
   },
   "author": "",
